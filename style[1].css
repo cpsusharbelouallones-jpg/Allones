@@ -1,0 +1,36 @@
+
+head{
+  text-align: ; center;
+}
+
+
+
+
+button{
+  background: mintcream;
+  color: black;
+  border:non;
+  height: 30px;
+  width: 110px;
+  border-radius:10px
+  align-items:center;
+  text-align: center;
+
+}
+th{
+  background-color: darkred;
+  padding: 10px;
+ 
+}
+
+body{
+  
+  align-items: center;
+  background: lightcoral;
+  color: black;
+  border: 2px solid;
+  box-shadow: gray;
+}
+table{
+  margin-left:20px
+  background-color:
