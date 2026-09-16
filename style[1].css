@@ -1,36 +1,22 @@
-
-head{
-  text-align: ; center;
-}
-
-
-
-
-button{
-  background: mintcream;
+body{
+  text align: center;
+  align-items: center;
+  background-color: skyblue;
   color: black;
-  border:non;
-  height: 30px;
-  width: 110px;
-  border-radius:10px
-  align-items:center;
-  text-align: center;
-
-}
-th{
-  background-color: darkred;
+  border: 2px ;
+  
+  th{
+  backdround-color: mintcream;
   padding: 10px;
  
 }
 
-body{
-  
-  align-items: center;
-  background: lightcoral;
-  color: black;
-  border: 2px solid;
-  box-shadow: gray;
-}
+
 table{
+  alig-items: center;
   margin-left:20px
-  background-color:
+  color: black;
+}
+
+
+
